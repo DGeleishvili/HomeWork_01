@@ -75,7 +75,15 @@ public class Main {
 
         System.out.println(x > y);
 
-        //method N4, birthday
+        //method N4, calculate birthday
+        int age = 29;
+        int currentYear = 2020;
+        int dateOfBirth = currentYear - age;
+
+        System.out.println("My date of birth is " + dateOfBirth + " and my age is " + age);
+
+
+
 
 
 
