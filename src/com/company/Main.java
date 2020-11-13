@@ -53,6 +53,32 @@ public class Main {
         System.out.println(isJoeBidenUsaPresident);
         System.out.println(androidIsBetterThanIos);
 
+        //method N2, print math operation with int operator
+        int sum1 = 10 + 590;
+        int sum2 = sum1 * 33;
+        int sum3 = sum2 - sum1;
+
+        System.out.println(sum3);
+
+        //method N3, use logical operators
+        int x = 57; int y = 89;
+
+        System.out.println("x is" + x + " and y is " + y);
+
+        System.out.println(x <= y);
+
+        System.out.println(x == y);
+
+        System.out.println(x != y);
+
+        System.out.println(x >= y);
+
+        System.out.println(x > y);
+
+        //method N4, birthday
+
+
+
 
 
 
